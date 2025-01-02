@@ -2,7 +2,7 @@
 Block diagonalization of p-q-tridiagonal matrices
 
 
-This is a collection of functions for block diagonal reduction of (p,q)-Tridiagonal matrices.
+This is a collection of OCTAVE/MATLAB functions for block diagonal reduction of (p,q)-Tridiagonal matrices.
 
 Genaral Usage : 
 
