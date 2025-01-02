@@ -7,10 +7,10 @@ This is a collection of functions for block diagonal reduction of (p,q)-Tridiago
 Genaral Usage : 
 
 
-Example usage with ones along p-th upper and q-th lower diagonals with all entry one. And diagonal entries zero
+Example usage with ones along p-th upper and q-th lower diagonals and remaining entries zero.
 
 [A Ab] = BDpqE(n,p,q)
 
-For a general (p,q) tridiagonal matrix.
+For a general (p,q)-tridiagonal matrix.
 
 [Ab] = BDpqT(T,n,p,q)
